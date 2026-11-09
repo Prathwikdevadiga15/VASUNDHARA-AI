@@ -1,0 +1,5 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body { @apply bg-beige text-forest antialiased; }
+.dark body { @apply bg-[#0a1a12] text-[#eef0e4]; }

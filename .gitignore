@@ -1,0 +1,12 @@
+.env
+.env.local
+*.pem
+*.key
+__pycache__/
+.pytest_cache/
+.venv/
+node_modules/
+.next/
+*.sqlite
+.vercel/
+.DS_Store
